@@ -1,0 +1,49 @@
+body {
+    font-family: "Comfortaa", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+margin: 10px;
+  border-radius: 15px;
+  background-color: rgba(70, 125, 189, 0.404);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+img {
+  mix-blend-mode: multiply;
+  border-radius: 15px;
+}
+
+h1 {
+background-color: #DCDCDC;
+border-radius: 15px;
+width: 278px;
+}
+
+h2 {
+background-color: #DCDCDC;
+border-radius: 15px;
+width: 260px;
+}
+
+footer p {
+background-color: #DCDCDC;
+//width: 120px;
+border-radius: 15px;
+}
+
+nav {
+margin:20px;
+padding: 10px;
+background-color: rgba(92, 99, 204, 0.438);
+border-radius: 15px;
+width: 440px
+}
+
+p img {
+
+width: 50px;
+}
